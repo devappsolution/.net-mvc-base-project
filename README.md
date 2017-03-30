@@ -1,11 +1,11 @@
-<h2>Boilerplate App</h2>
+# Boilerplate App
 
 <pre>Project base from application MVC .Net 4.5.1</pre>
 
-<h2>Build status</h2>
+# Build status
 [![Build status](https://ci.appveyor.com/api/projects/status/28lbv6j9toyoarrv?svg=true)](https://ci.appveyor.com/project/pauloprsdesouza/net-mvc-boilerplate)
 
-<h2>Before you start</h2>
+# Before you start
 
 <pre>Install Visual Studio 2013 or higher version and Web Essentials
 How to run
