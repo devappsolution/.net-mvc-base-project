@@ -2,10 +2,10 @@
 
 <pre>Project base from application MVC .Net 4.5.1</pre>
 
-# Build status
+## Build status
 [![Build status](https://ci.appveyor.com/api/projects/status/28lbv6j9toyoarrv?svg=true)](https://ci.appveyor.com/project/pauloprsdesouza/net-mvc-boilerplate)
 
-# Before you start
+## Before you start
 
 <pre>Install Visual Studio 2013 or higher version and Web Essentials
 How to run
