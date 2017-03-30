@@ -3,8 +3,7 @@ os: Visual Studio 2013
 language: csharp
 solution: src/BoilerPlate.sln
 install:
-  - sudo apt-get install -y gtk-sharp2
-  - nuget restore src/BoilerPlate.sln
+  - set PATH=C:\Program Files (x86)\MSBuild\14.0\Bin;%PATH%
 
 configuration: Release
 branches:
