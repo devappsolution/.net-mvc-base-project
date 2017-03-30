@@ -1,0 +1,13 @@
+﻿input, button, select, textarea, .panel, .panel-heading, .modal-content, .list-group, .list-group-item, .form-control, .suggestion-body, .input-group-addon, .dropdown-menu, .alert, .navbar-default, .progress {
+    border-radius: 0px !important;
+}
+
+body {
+    background-color: #f4f4f4;
+    font-family: 'Lato',sans-serif !important;
+    line-height: 1.5;
+}
+
+    body > .container {
+        padding-bottom: 20px;
+    }

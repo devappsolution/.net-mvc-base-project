@@ -1,0 +1,15 @@
+os: Visual Studio 2013
+install:
+  - set PATH=C:\Program Files (x86)\MSBuild\14.0\Bin;%PATH%
+
+configuration: Release
+branches:
+  only:
+    - master
+
+before_build:
+  - nuget restore src/BoilerPlate.sln
+
+build:
+  project: src/BoilerPlate.sln
+  verbosity: minimal

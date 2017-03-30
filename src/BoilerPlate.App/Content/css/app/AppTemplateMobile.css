@@ -1,0 +1,39 @@
+﻿@media(max-width: 768px) {
+    .navbar {
+        margin-bottom: 0px;
+        height: 60px;
+        background-color: #000000;
+        border: none;
+    }
+
+    .navbar-nav > li {
+        display: block;
+        text-align: center !important;
+        width: 100%;
+    }
+
+        .navbar-nav > li > a:hover {
+            background: rgba(444,444,444,0.2) !important;
+        }
+
+        .navbar-nav > li > a {
+            height: 60px;
+            font-family: 'Exo', sans-serif;
+            font-size: 1.5em;
+            display: block;
+            vertical-align: middle;
+        }
+
+    .navbar-nav {
+        background-color: #000000;
+    }
+
+    .img-responsive {
+        margin-left: auto !important;
+        margin-right: auto !important;
+    }
+
+    .social-midia-footer {
+        padding: 0px !important;
+    }
+}
