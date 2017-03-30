@@ -3,6 +3,7 @@
 <pre>Project base from application MVC .Net 4.5.1</pre>
 
 <h2>Build status</h2>
+https://ci.appveyor.com/api/projects/status/28lbv6j9toyoarrv?svg=true
 
 <h2>Before you start</h2>
 
